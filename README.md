@@ -32,7 +32,7 @@ The banking system includes the following functionalities:
  
 **Link For The Respository**
      
-    https://github.com/Codenaman21/Banking_System.git
+    https://github.com/Codenaman21/Banking_System
 
 **Code Structure**
 
